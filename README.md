@@ -3,7 +3,6 @@ First practice repository
 
 Welcome, World! To the best read-me file ever! 
 
-Let's test this in command line as well... (Merge Pull Request)
 
 
                                                                                                                                             
